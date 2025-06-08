@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          Malipatel Shivakumar
+          M Shivakumar
         </motion.h1>
         
         <motion.p 
